@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "spfx-extension-fullpagecanvas",
+    "libraryId": "c9f44baf-2572-4004-9357-efe58b78b545",
+    "environment": "spo"
+  }
+}
