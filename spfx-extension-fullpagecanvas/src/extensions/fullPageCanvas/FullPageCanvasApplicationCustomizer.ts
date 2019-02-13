@@ -43,7 +43,8 @@ export default class FullPageCanvasApplicationCustomizer
       this._topPlaceholder.domElement.innerHTML = `
         <div>
           <style>
-            .ms-compositeHeader { display: none!important; }
+            div[role="header"] { display: none!important; }
+            div[role="heading"] { display: none!important; }
           </style>
         </div>`;
     }
